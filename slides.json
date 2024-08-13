@@ -1,0 +1,33 @@
+{
+    "slides": [
+        {   
+            "duration" : "3000",
+            "type": "picture",
+            "url": "https://images.unsplash.com/photo-1723525666443-94aaaed255e2?q=80&w=2531&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "duration" : "3000",
+            "type": "picture",
+            "url": "https://cdn1-photos.shl.se/photos/24/06/336dc47f-773d-4ad8-8b70-81cfa404d6b2lifdagen.png?ixlib=js-3.8.0&auto=format&fp-debug=0&fp-y=0.5&fp-x=0.5&crop=focalpoint&fit=crop&ar=16%3A9&w=1247&s=4caa8267b1a5d74b73ee9ae0242f3ffe"
+        },
+        {
+            "duration": "5000",
+            "type": "video",
+            "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+        },
+        {
+            "duration" : "5000",
+            "type": "url",
+            "url": "http://bayville.se"
+        },
+        {
+            "duration" : "3000",
+            "type": "info",
+            "data": "<h1>2500</h1>"
+        },
+        {
+            "type": "video",
+            "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+        }
+    ]
+}
